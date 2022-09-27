@@ -9,7 +9,7 @@ function mueveRana(el)
 //		It is a Left Frog
 		
 		//Can I move straight forward?
-		if(???) 
+		if("L.png" == ) 
 		{
 //			alert("Moving the frog forward!")
 			frog_swap(id_el,id_el+1)
